@@ -17,7 +17,7 @@ Due to the Pygame library that cannot run in Google Colab and also insufficient 
 
 This repo is the only way that we can show you our work, effort and creativity💻 This might not be the best idea, but we hope you like it🫶.
 
-If you wish to run our code, you can directly download the zip file and run in Jupyter in VSCode.
+If you wish to run our code, you can directly download the zip file and run in Jupyter in VSCode and run the main.py file.
 
 Here's we include the output that we got so far from the game generator:
 
