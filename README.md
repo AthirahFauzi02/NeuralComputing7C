@@ -15,7 +15,7 @@ This is our repo for Assignment 7C.
 
 Due to the Pygame library that cannot run in Google Colab and also insufficient GPU in our laptops, we had to lend our friend's desktop and use team viewer (because he is far away) to run the gpt4all, stable diffusion and pygame in VSCode.
 
-This repo is the only way that we can show you our work, effort and creativity💻 This is not a perfect code and might not be the best idea, but we hope you like it🫶.
+This repo is the only way that we can show you our work, effort and creativity💻 There is still some lacking in our code and might not be the best idea, but we hope you like it🫶.
 
 If you wish to run our code game, you can directly download the zip file and run in VSCode and run the main.ipynb file. You can directly run the last cell to play the game.
 If you want to run the gpt4all and stable diffusion without the game, you can go to the Google Colab and here's the link:
@@ -26,7 +26,7 @@ We also provide explanation for each cell in the Google Colab. Feel free to open
 
 Here's we include the the demo of our game generator:
 
-(nnt saya letak video demo, lupa pulak nak record the whole thing)
+https://drive.google.com/file/d/1FbABZ6IcXRx-n4ge67Ix-c2q-wCusyG3/view?usp=sharing
 
 
 
