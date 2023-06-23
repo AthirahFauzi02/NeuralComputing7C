@@ -17,8 +17,18 @@ Due to the Pygame library that cannot run in Google Colab and also insufficient 
 
 This repo is the only way that we can show you our work, effort and creativity💻 This is not a perfect code and might not be the best idea, but we hope you like it🫶.
 
-If you wish to run our code or game, you can directly download the zip file and run in VSCode and run the main.ipynb file. You can directly run the last cell to play the game.
+If you wish to run our code game, you can directly download the zip file and run in VSCode and run the main.ipynb file. You can directly run the last cell to play the game.
+If you want to run the gpt4all and stable diffusion without the game, you can go to the Google Colab and here's the link:
+
+https://colab.research.google.com/drive/1D6n9f-k05bFdtcrgQq61-Zl7vXg6wEjz?usp=sharing
+
+We also provide explaination for each cell in the Google Colab. Feel free to open the link📎
 
 Here's we include the the demo of our game generator:
 
 (nnt saya letak video demo, lupa pulak nak record the whole thing)
+
+
+Nursyazwani binti Mohammad 17206746
+Afifah binti Abdul Halim 17203106
+Athirah binti Ahmad Fauzi U2005247
